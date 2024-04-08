@@ -1,0 +1,15 @@
+C:\PatholabProjects\RegUnReg\unRegAll\bin\Debug\unRegAll.exe
+C:\PatholabProjects\RegUnReg\unRegAll\bin\Debug\unRegAll.pdb
+C:\PatholabProjects\RegUnReg\unRegAll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PatholabProjects\RegUnReg\unRegAll\obj\x86\Debug\unRegAll.exe
+C:\PatholabProjects\RegUnReg\unRegAll\obj\x86\Debug\unRegAll.pdb
+C:\Users\ashim\Desktop\PATHOLAB\RegUnReg\unRegAll\obj\x86\Debug\unRegAll.exe
+C:\Users\ashim\Desktop\PATHOLAB\RegUnReg\unRegAll\obj\x86\Debug\unRegAll.pdb
+C:\Users\ashim\Desktop\PATHOLAB\RegUnReg\unRegAll\bin\Debug\unRegAll.exe
+C:\Users\ashim\Desktop\PATHOLAB\RegUnReg\unRegAll\bin\Debug\unRegAll.pdb
+C:\Users\ashim\Desktop\PATHOLAB\RegUnReg\unRegAll\bin\Debug\unRegAll.exe.config
+C:\Work\Patholab Proj\RegUnReg\unRegAll\obj\x86\Debug\unRegAll.exe
+C:\Work\Patholab Proj\RegUnReg\unRegAll\obj\x86\Debug\unRegAll.pdb
+C:\Work\Patholab Proj\RegUnReg\unRegAll\bin\Debug\unRegAll.exe
+C:\Work\Patholab Proj\RegUnReg\unRegAll\bin\Debug\unRegAll.pdb
+C:\Work\Patholab Proj\RegUnReg\unRegAll\bin\Debug\unRegAll.exe.config

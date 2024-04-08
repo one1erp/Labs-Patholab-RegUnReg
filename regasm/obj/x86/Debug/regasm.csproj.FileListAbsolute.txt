@@ -1,0 +1,15 @@
+C:\PatholabProjects\RegUnReg\regasm\bin\Debug\regasm.exe
+C:\PatholabProjects\RegUnReg\regasm\bin\Debug\regasm.pdb
+C:\PatholabProjects\RegUnReg\regasm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PatholabProjects\RegUnReg\regasm\obj\x86\Debug\regasm.exe
+C:\PatholabProjects\RegUnReg\regasm\obj\x86\Debug\regasm.pdb
+C:\Users\ashim\Desktop\PATHOLAB\RegUnReg\regasm\bin\Debug\regasm.exe
+C:\Users\ashim\Desktop\PATHOLAB\RegUnReg\regasm\bin\Debug\regasm.pdb
+C:\Users\ashim\Desktop\PATHOLAB\RegUnReg\regasm\obj\x86\Debug\regasm.exe
+C:\Users\ashim\Desktop\PATHOLAB\RegUnReg\regasm\obj\x86\Debug\regasm.pdb
+C:\Users\ashim\Desktop\PATHOLAB\RegUnReg\regasm\bin\Debug\regasm.exe.config
+C:\Work\Patholab Proj\RegUnReg\regasm\bin\Debug\regasm.exe.config
+C:\Work\Patholab Proj\RegUnReg\regasm\bin\Debug\regasm.exe
+C:\Work\Patholab Proj\RegUnReg\regasm\bin\Debug\regasm.pdb
+C:\Work\Patholab Proj\RegUnReg\regasm\obj\x86\Debug\regasm.exe
+C:\Work\Patholab Proj\RegUnReg\regasm\obj\x86\Debug\regasm.pdb
